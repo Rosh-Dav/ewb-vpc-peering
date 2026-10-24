@@ -89,4 +89,8 @@ Tests
 
 ## Cleanup
 
+<<<<<<< HEAD
 All resources were deleted after the project to avoid charges.
+=======
+All resources were deleted after the project to avoid charges.
+>>>>>>> b33863dd59ffd69448c733e1a58f67de3789533c
